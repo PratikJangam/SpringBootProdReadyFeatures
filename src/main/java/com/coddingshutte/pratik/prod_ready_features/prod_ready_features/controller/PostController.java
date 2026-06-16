@@ -3,7 +3,6 @@ package com.coddingshutte.pratik.prod_ready_features.prod_ready_features.control
 import com.coddingshutte.pratik.prod_ready_features.prod_ready_features.dto.PostDTO;
 import com.coddingshutte.pratik.prod_ready_features.prod_ready_features.services.PostService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
